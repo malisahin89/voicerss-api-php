@@ -20,7 +20,6 @@
 	<img src="https://img.shields.io/badge/PHP-777BB4.svg?style=flat&logo=PHP&logoColor=white" alt="PHP">
 </p>
 <hr>
----
 
 ## 📂 Repository Structure
 
