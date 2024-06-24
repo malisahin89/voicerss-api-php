@@ -32,18 +32,6 @@
 
 ---
 
-## 🧩 Modules
-
-<details closed><summary>.</summary>
-
-| File                                                                                             | Summary                         |
-| ---                                                                                              | ---                             |
-| [text2mp3.php](https://github.com/malisahin89/voicerss-api-php/blob/master/text2mp3.php)         | <code>► INSERT-TEXT-HERE</code> |
-| [voicerss_tts.php](https://github.com/malisahin89/voicerss-api-php/blob/master/voicerss_tts.php) | <code>► INSERT-TEXT-HERE</code> |
-
-</details>
-
----
 
 ## 🚀 Getting Started
 
